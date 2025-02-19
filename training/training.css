@@ -1,0 +1,33 @@
+body {
+  height: 100vh;
+  background-color: rgb(157, 162, 146);
+  /* background:linear-gradient(rgb(15, 87, 176),rgb(239, 129, 217),rgb(193, 56, 170)); */
+}
+
+body .mainBox{
+  margin-top: 50px;
+  margin-left: 98px;
+  padding: 30px;
+}
+.mainBox{
+display: flex;
+  border:0.5rem solid black;
+  border-radius: 8px;
+  background-color: rgba(185, 216, 130, 0.788);
+  height: 400px;
+  width: 80%;
+}
+img{
+  height: 280px;
+  width: 350px;
+  margin-left: 40px;
+}
+#page1{
+  width: 60%;
+}
+
+.button{
+padding-top: 50px;
+margin-left: 100px;
+justify-content: space-between;
+}

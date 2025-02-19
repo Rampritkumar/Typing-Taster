@@ -1,0 +1,31 @@
+body {
+    height: 100vh;
+    background:linear-gradient(rgb(15, 87, 176),rgb(239, 129, 217),rgb(193, 56, 170));
+  }
+
+  body .mainBox{
+    margin-top: 50px;
+    margin-left: 300px;
+    padding: 30px;
+  }
+.mainBox{
+    /* display: flex; */
+    border:0.5rem solid black;
+    border-radius: 8px;
+    background-color: rgba(185, 216, 130, 0.788);
+    height: 500px;
+    width: 60%;
+}
+video{
+    height: 300px;
+    width: 500px;
+}
+
+
+
+
+.button{
+  padding-top: 50px;
+  margin-left: 100px;
+  justify-content: space-evenly;
+}

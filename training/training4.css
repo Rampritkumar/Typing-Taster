@@ -1,0 +1,36 @@
+body {
+    height: 100vh;
+    background:linear-gradient(rgb(15, 87, 176),rgb(239, 129, 217),rgb(193, 56, 170));
+  }
+
+  body .mainBox{
+    margin-top: 50px;
+    margin-left: 200px;
+    padding: 30px;
+  }
+.mainBox{
+    display: flex;
+    border:0.5rem solid black;
+    border-radius: 8px;
+    background-color: rgba(185, 216, 130, 0.788);
+    height: 500px;
+    width: 60%;
+}
+.page1 p{
+    width: 400px;
+    margin-left: 10px;
+    padding-top: 10px;
+}
+.page1 p #team{
+    font-size: 25px;
+    font-weight: 700;
+}
+img{
+    height: 300px;
+    width: 300px;
+    margin-top: 80px;
+    margin-left: 40px;
+}
+#page1{
+    width: 60%;
+}
